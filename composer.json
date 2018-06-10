@@ -1,0 +1,23 @@
+{
+    "name": "spipremix/menus",
+    "homepage": "https://contrib.spip.net/Menus-3139",
+    "description": "Élaborer des menus au moyen d’une interface conviviale",
+    "type": "spip-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olivier Sallou"
+        },
+        {
+            "name": "Cédric Morin",
+            "email": "cedric@yterium.net",
+            "homepage": "http://www.yterium.net"
+        },
+        {
+            "name": "Gilles Vincent",
+            "email": "gilles.vincent@gmail.com",
+            "homepage": "http://www.tech-nova.fr"
+        }
+    ],
+    "require": {}
+}
